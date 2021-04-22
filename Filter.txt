@@ -1,0 +1,11 @@
+e-katalog.ru##div[class="model-short-div"]
+yandex.ru##iframe[src*="skip-banner"]
+yandex.ru##div > iframe[src*="skip-banner"]
+yandex.ru##div.desk-notif-card__teaser-item[aria-label="Реклама"]
+yandex.ru##div.desk-notif-card__card[aria-label="Реклама"]
+yandex.ru##div > iframe[src*="skip-token"]
+yandex.ru##a[href*="yastatic.net"]
+yandex.ru#?#div:-abp-has(> div > a[href*="yastatic.net/www/"])
+yandex.ru##div[style="width: 100%;"]
+zen.yandex.ru###article__right
+e.mail.ru##.application-mail__layout_main > span div[style^="width:"]
